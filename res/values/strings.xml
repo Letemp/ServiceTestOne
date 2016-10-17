@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceTestOne</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvShow">主界面</string>
+    <string name="btnClick1">点击</string>
+    <string name="welcome">欢迎界面</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
